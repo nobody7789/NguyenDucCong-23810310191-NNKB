@@ -1,0 +1,12 @@
+{
+  "name": "cosmetics-shop",
+  "version": "1.0.0",
+  "description": "Website bán mỹ phẩm sử dụng Node.js backend và HTML view",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
